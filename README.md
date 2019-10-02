@@ -1,4 +1,4 @@
-# ReceiptMaker
+# ReceiptGenerator
 -Description:
 Data from uploaded CSV file is decoded and displayed as a table along with total price and tax.
 
